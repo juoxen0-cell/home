@@ -1,0 +1,4 @@
+streamlit>=1.41,<2
+pandas>=2.2,<3
+qrcode[pil]>=8.0,<9
+psycopg[binary]>=3.2,<4
